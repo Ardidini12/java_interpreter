@@ -1,6 +1,6 @@
 # ALB Interpreter
 
-A simple interpreter for the ALB programming language, implemented in Java.
+A simple interpreter for the ALBOS, implemented in Java.
 Run InterpreterMain.java -> it's the main file 
 
 ## Features
