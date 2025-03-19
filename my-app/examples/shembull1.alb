@@ -1,0 +1,8 @@
+lexo a;
+a = a + 5;
+b = 0;
+c = a + b;
+afisho a;
+b = c / a;
+c = a * b;
+afisho c;

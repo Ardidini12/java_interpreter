@@ -1,0 +1,26 @@
+# Maven
+target/
+.mvn/
+mvnw
+mvnw.cmd
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+
+# Compiled files
+*.class
+*.jar
+
+# Logs
+*.log
+
+# Package files
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar 
